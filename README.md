@@ -1,8 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=mustafa0624&show_icons=true&theme=tokyonight" align='right' width="55%">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mustafa0624&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 
 
 ## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa0624" alt="mustafa0624" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa0624" alt="mustafa0624" /> </p> -->
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-yucel-01bb161b7/)
 <!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/) -->
@@ -16,6 +16,10 @@
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
+<br>
+<img src="./1.png" alt="react-native" width="10%"  >
+<img src="./2.png" alt="react-native" width="17.6%"  >
+<img src="./3.png" alt="react-native" width="10%"  >
 
 <p stlye="align:center">
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="10%" align="right"  >
