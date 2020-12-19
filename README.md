@@ -18,7 +18,7 @@
 - 💬 Ask me about anything that you want to learn
 
 <p stlye="align:center">
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="10%"  >
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="10%" align="right"  >
 </p>
 
 <!-- ## Medium Articles -->
