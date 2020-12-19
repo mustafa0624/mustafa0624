@@ -17,8 +17,9 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%"  align="right" style="margin-right:300px;">
-
+<p stlye="align:center">
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="10%"  >
+</p>
 
 <!-- ## Medium Articles -->
 
