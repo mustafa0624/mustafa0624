@@ -1,14 +1,14 @@
-<img src="https://github-readme-stats.vercel.app/api?username=frcihan&show_icons=true&theme=tokyonight" align='right' width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=mustafa0624&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
 ## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frcihan" alt="frcihan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa0624" alt="mustafa0624" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frcihan/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan)
-[![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-yucel-01bb161b7/)
+<!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://frcihan.medium.com/) -->
+<!-- [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/channel/UC0zq1UqPsGh51iBZnPNZIaQ) -->
+<!-- [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan) -->
+<!-- [![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345) -->
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
@@ -17,10 +17,10 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
-## Medium Articles
+<!-- ## Medium Articles -->
 
-- [How to add GIFs in GitHub README Without Software](https://frcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff)
-- [Google Play Services for Genymotion](https://frcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2)
+<!-- - [How to add GIFs in GitHub README Without Software](https://frcihan.medium.com/how-to-add-gifs-in-github-readme-without-software-2536128a3dff) -->
+<!-- - [Google Play Services for Genymotion](https://frcihan.medium.com/google-play-services-for-genymotion-7d7ff8a056e2) -->
 
 
 
