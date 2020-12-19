@@ -10,7 +10,7 @@
 <!-- [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fr_cihan) -->
 <!-- [![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/dev?id=5063465632723503345) -->
 
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="30%" height="30%" align="right">
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
